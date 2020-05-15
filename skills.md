@@ -13,6 +13,9 @@ A：建筑师、设计师、甚至是美术学院和传播学院的人都在天�
 Q：学手艺如何开始？
 A：从突破自我设限开始，参考任务001
 
+Q:我想看看别人的手艺，可以吗？
+A：https://github.com/lovelystrange/chats/blob/master/人文社科手艺群的手艺.md
+
 ## 任务001
 - 注册一个Github账号 网址是 https://github.com/
 - 参考网络教程，建一个自己的仓库 Repository
